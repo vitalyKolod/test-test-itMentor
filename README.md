@@ -16,7 +16,7 @@ https://vitalykolod.github.io/test-test-itMentor/
 
 > Основной интерфейс калькулятора
 
-![Calculator main](./images/cilcilator.png)
+![Calculator main](./images/calculator.png)
 
 ---
 
